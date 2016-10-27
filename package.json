@@ -1,0 +1,25 @@
+{
+  "name": "aarrr",
+  "version": "0.0.0",
+  "description": "AARRR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AARRR/aarrr.js.git"
+  },
+  "keywords": [
+    "aarrr"
+  ],
+  "author": "Inndy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AARRR/aarrr.js/issues"
+  },
+  "homepage": "https://github.com/AARRR/aarrr.js#readme",
+  "bin": {
+    "aarrr": "./index.js"
+  }
+}
