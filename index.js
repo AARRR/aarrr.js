@@ -5,4 +5,6 @@
   if(global.alert) {
     alert('aarrr');
   }
+  if(global.module !== undefined)
+    module.exports = 'aarrr';
 })(this);
