@@ -5,6 +5,6 @@
   if(global.alert) {
     alert('aarrr');
   }
-  if(global.module !== undefined)
+  if(typeof(global.module) !== undefined)
     module.exports = 'aarrr';
 })(this);
